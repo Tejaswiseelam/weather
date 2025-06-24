@@ -39,4 +39,30 @@ This Weather Dashboard allows users to:
 
 ---
 
+### 1️ Clone the Repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/weather-dashboard.git
+cd weather-dashboard
+```
+### 2 Get an API Key from OpenWeatherMap
+
+```bash
+https://openweathermap.org/api
+```
+### 3 nsert Your API Key into the Code
+```bash
+const apiKey = "YOUR_API_KEY";
+```
+### 4 Run the app
+```bash
+# On Windows (Explorer):
+start index.html
+
+# On macOS:
+open index.html
+
+# Or manually double-click the file in your file explorer
+```
+
 
